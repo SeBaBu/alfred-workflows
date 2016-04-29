@@ -3,7 +3,7 @@
 
 
 
-Things Workflow
+### Things Workflow
  
 
 The syntax is
@@ -27,4 +27,3 @@ Second keyword
 task2:
 
 \<task> ::\<note>
-\
